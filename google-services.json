@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218029443063",
+    "project_id": "pawcon-ba010",
+    "storage_bucket": "pawcon-ba010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218029443063:android:7e4dd5892ad78e562c10f2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7fVJHUUpln7ii7HVm1Nqb6bmCK2SS5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
